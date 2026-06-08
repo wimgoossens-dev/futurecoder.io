@@ -10,6 +10,7 @@ for char in sentence:
 
 print(new_sentence)
 
+
 # This will output the exact opposite
 sentence = "Hello World"
 
