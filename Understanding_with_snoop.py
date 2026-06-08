@@ -1,8 +1,8 @@
 # Snoop is the debugger inside futurecoder.io
-sentence = 'Hello World'
+sentence = "Hello World"
 
 include = False
-new_sentence = ''
+new_sentence = ""
 for char in sentence:
     if include:
         new_sentence += char
@@ -11,10 +11,10 @@ for char in sentence:
 print(new_sentence)
 
 # This will output the exact opposite
-sentence = 'Hello World'
+sentence = "Hello World"
 
 include = True
-new_sentence = ''
+new_sentence = ""
 for char in sentence:
     if include:
         new_sentence += char
