@@ -49,5 +49,3 @@ for char in dna:
     opposite_dna += char
     
 print(opposite_dna)
-
-#
