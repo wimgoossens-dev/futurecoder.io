@@ -27,3 +27,5 @@ for thing in things:
     if thing == thing_to_find:
         found = True
         break
+
+print(found)
