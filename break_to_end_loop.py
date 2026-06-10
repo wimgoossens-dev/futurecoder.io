@@ -19,7 +19,7 @@ for thing in things:
 
 print(found)
 
-# Optimized solution
+# Optimized solution to break loop early
 things = ["This", "is", "a", "list"]
 thing_to_find = "other"
 
