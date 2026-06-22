@@ -54,3 +54,41 @@ print(y)
 x = [1, 2, 0, 3]
 x.pop(x.index(0))
 print(x)
+
+# More... sorted
+sorted([2, 9, 1, 8, 5, 6])
+
+my_list = [2, 9, 1, 8, 5, 6]
+my_list.sort()
+print(my_list)
+
+# A comparison operator
+nums = [2, 9, 1, 8, 5, 64]
+print(7 in nums)
+print(2 in nums)    
+
+# Add up an iterable of numbers using the syntax
+print(sum([5, 3, 4]))
+
+# sum([5, 3, 4])
+print([1, 2, 3, 2, 7, 2, 5].count(2))
+
+# Replace part "1 in x" (leave the y = ...)
+x = [1, 2, 0, 3]
+y = x.count(1) > 0
+print(y)
+
+# The final program should print the average (technically the mean) of the numbers in x
+x = [15, 12, -6, 3]
+y = sum(x) / len(x)
+print(y)
+
+# Add all the numbers from 1 to x
+x = 100
+y = sum(range(x + 1))
+print(y)
+
+# print the second smallest number in the list
+x = [12, -6, 2, -1, 3]
+y = sorted(x)[1]
+print(y)
