@@ -28,5 +28,3 @@ list1.append(4)
 
 print(list1)
 print(list2)
-
-# 
