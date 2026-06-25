@@ -1,4 +1,4 @@
-# [futurcoder.io](https://futurcoder.io)
+# [futurecoder.io](https://futurecoder.io)
 
 Below are links to different pages in the course. You can start anywhere and go in any order, and your progress on each page will be recorded.
 
