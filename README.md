@@ -2,7 +2,7 @@
 
 ---
 
-# futurecoder
+# 💻 futurecoder
 
 Below are links to different pages in the course. You can start anywhere and go in any order, and your progress on each page will be recorded.
 
@@ -10,7 +10,7 @@ Below are links to different pages in the course. You can start anywhere and go 
 
 ---
 
-## Table of Contents
+##  📋  Table of Contents
 
 ### 1. The Shell
 &nbsp;&nbsp; [01] [Introducing The Shell](https://futurecoder.io/course/#IntroducingTheShell)  
