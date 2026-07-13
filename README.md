@@ -1,5 +1,4 @@
-🐍 This repository is used to track my progress for learning Python with version control. [futurecoder.io](https://futurecoder.io) is built by Alex Hall.  
-Go support his work at [github.com/futurecoder](https://github.com/alexmojaki/futurecoder), which is amazing and 100% free!
+🐍 This repository is used to track my progress for learning Python with version control. [futurecoder.io](https://futurecoder.io) is built by Alex Hall. Go support his work at [github.com/futurecoder](https://github.com/alexmojaki/futurecoder), which is amazing and 100% free!
 
 ---
 
