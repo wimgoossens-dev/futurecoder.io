@@ -1,3 +1,10 @@
+# This test-function is needed for making the code work
+def assert_equal(actual, expected):
+    if actual == expected:
+        print("OK")
+    else:
+        print(f"Error! {repr(actual)} != {repr(expected)}")
+
 # The function below accepts one parameter, name, and checks if the person with the given name is among your friends
 def is_friend(name):
     if name == "Alice":
